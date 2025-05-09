@@ -6,6 +6,13 @@ LazyCat is a Flutter-based delivery app tailored for college campuses, where stu
 
 ---
 
+## 💡 Idea Behind LazyCat
+
+> In many college campuses, students often need to fetch food or items but can’t leave their rooms. LazyCat solves this by creating a community-driven mini delivery system without any hired staff – just motivated students helping each other.
+
+---
+
+
 ## 🚀 Features
 
 - 📍 Location-based delivery within campus
@@ -20,14 +27,14 @@ LazyCat is a Flutter-based delivery app tailored for college campuses, where stu
 ## 🛠️ Tech Stack
 
 - **Flutter** – Cross-platform UI
-- **Firebase** – Authentication & Backend (assumed)
-- **Google Maps API** – Location handling (if used)
+- **Firebase** – Authentication & Backend 
+
 
 ---
 
 ## 📱 Screenshots
 
-> *(Add screenshots here if possible)*
+<img src="https://github.com/user-attachments/assets/4095374b-54f6-47be-bb16-37441a1ee132" alt="LazyCat Screenshot" width="300"/>
 
 ---
 
@@ -37,7 +44,7 @@ To run this project on your local machine:
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/lazycat.git
+   git clone https://github.com/Chandu-geesala/lazycat.git
    cd lazycat
 
 
@@ -65,11 +72,6 @@ New to Flutter? Start here:
 
 ---
 
-## 💡 Idea Behind LazyCat
-
-> In many college campuses, students often need to fetch food or items but can’t leave their rooms. LazyCat solves this by creating a community-driven mini delivery system without any hired staff – just motivated students helping each other.
-
----
 
 ## 🙌 Contributing
 
