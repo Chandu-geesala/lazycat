@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "185499435792",
+    "project_id": "lazycat-6910c",
+    "storage_bucket": "lazycat-6910c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185499435792:android:4fa127584d53d27b175b95",
+        "android_client_info": {
+          "package_name": "com.chandu.lazycat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185499435792-4udm4kpviul3ainhr4ae8dk72sujniu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandu.lazycat",
+            "certificate_hash": "7741a0025092e11b183bffcb313e261785793d22"
+          }
+        },
+        {
+          "client_id": "185499435792-7kv5mjatle48nviriv8vdvgaajumoup6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandu.lazycat",
+            "certificate_hash": "62b4b65fe4cebdb9b001e729fbba6eb793b69c5c"
+          }
+        },
+        {
+          "client_id": "185499435792-ern7ab8eupkbeji1e1r0dl3kcf1cg65u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandu.lazycat",
+            "certificate_hash": "30b52281a1f9d47b825f1b464980b5a06d2570ac"
+          }
+        },
+        {
+          "client_id": "185499435792-n3k2eeefps29nd7s5smbc9ghnhffq28a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandu.lazycat",
+            "certificate_hash": "359c878fb1d74054292eb6aa22f34c1d507dd808"
+          }
+        },
+        {
+          "client_id": "185499435792-s994ki7mcdbflq4i48u20c33f0ag48jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETj4o80vRx9Ul7oinm-6qZdqr0gANtj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185499435792-s994ki7mcdbflq4i48u20c33f0ag48jb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185499435792-ib5lrobhnj41upgghjutb81h4npmba16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandu.lazycat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
